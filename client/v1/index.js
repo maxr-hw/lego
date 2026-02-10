@@ -479,7 +479,7 @@ let camera = sealedCamera;
 camera.favorite = true;
 
 // 1. Log `sealedCamera` and `camera` variables
-// 2. What do you notice?
+// 2. What do you notice? (Answer) They are the same.
 
 console.log(sealedCamera, camera);
 
